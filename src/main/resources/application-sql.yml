@@ -1,0 +1,5 @@
+sql:
+  server:
+    address: localhost
+    loginname: root
+    password: 123
